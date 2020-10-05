@@ -1,0 +1,144 @@
+1	No	no	DET	DT	_	4	DEP	_	_
+2	,	,	PUNCT	,	_	4	P	_	_
+3	it	it	PRON	PRP	_	4	SBJ	_	_
+4	was	be	AUX	VBD	_	0	ROOT	_	_
+5	n't	not	ADV	RB	_	4	ADV	_	_
+6	Black	black	PROPN	NNP	_	7	NAME	_	_
+7	Monday	monday	PROPN	NNP	_	4	PRD	_	_
+8	.	.	PUNCT	.	_	4	P	_	_
+
+1	But	but	CCONJ	CC	_	33	DEP	_	_	_	_	_	_
+2	while	while	SCONJ	IN	_	33	ADV	_	_	_	_	AM-ADV	_
+3	the	the	DET	DT	_	7	NMOD	_	_	_	_	_	_
+4	New	new	PROPN	NNP	_	5	NAME	_	_	_	_	_	_
+5	York	york	PROPN	NNP	_	7	NAME	_	_	_	_	_	_
+6	Stock	stock	PROPN	NNP	_	7	NAME	_	_	_	_	_	_
+7	Exchange	exchange	PROPN	NNP	_	8	SBJ	_	_	A1	_	_	_
+8	did	do	AUX	VBD	_	2	SUB	_	_	_	_	_	_
+9	n't	not	ADV	RB	_	8	ADV	_	_	AM-NEG	_	_	_
+10	fall	fall	VERB	VB	_	8	VC	Y	fall.01	_	_	_	_
+11	apart	apart	ADV	RB	_	10	ADV	_	_	A4	_	_	_
+12	Friday	friday	PROPN	NNP	_	10	TMP	_	_	AM-TMP	_	_	_
+13	as	as	SCONJ	IN	_	10	TMP	_	_	AM-TMP	_	_	_
+14	the	the	DET	DT	_	18	NMOD	_	_	_	_	_	_
+15	Dow	dow	PROPN	NNP	_	16	NAME	_	_	_	_	_	_
+16	Jones	jones	PROPN	NNP	_	18	NAME	_	_	_	_	_	_
+17	Industrial	industrial	PROPN	NNP	_	18	NAME	_	_	_	_	_	_
+18	Average	average	PROPN	NNP	_	19	SBJ	_	_	_	A1	_	_
+19	plunged	plunge	VERB	VBD	_	13	SUB	Y	plunge.01	_	_	_	_
+20	190.58	190.58	NUM	CD	_	21	NMOD	_	_	_	_	_	_
+21	points	point	NOUN	NNS	_	19	EXT	_	_	_	A2	_	_
+22	--	--	PUNCT	:	_	23	P	_	_	_	_	_	_
+23	most	most	DET	DT	_	21	NMOD	_	_	_	_	_	_
+24	of	of	SCONJ	IN	_	23	NMOD	_	_	_	_	_	_
+25	it	it	PRON	PRP	_	24	PMOD	_	_	_	_	_	_
+26	in	in	SCONJ	IN	_	23	TMP	_	_	_	_	_	_
+27	the	the	DET	DT	_	29	NMOD	_	_	_	_	_	_
+28	final	final	ADJ	JJ	_	29	NMOD	_	_	_	_	_	_
+29	hour	hour	NOUN	NN	_	26	PMOD	_	_	_	_	_	_
+30	--	--	PUNCT	:	_	23	P	_	_	_	_	_	_
+31	it	it	PRON	PRP	_	33	SBJ	_	_	_	_	A0	A1
+32	barely	barely	ADV	RB	_	33	ADV	_	_	_	_	AM-ADV	_
+33	managed	manage	VERB	VBD	_	0	ROOT	Y	manage.02	_	_	_	_
+34	to	to	PART	TO	_	33	OPRD	_	_	_	_	A1	_
+35	stay	stay	VERB	VB	_	34	IM	Y	stay.01	_	_	_	_
+36	this	this	DET	DT	_	37	NMOD	_	_	_	_	_	_
+37	side	side	NOUN	NN	_	35	LOC-PRD	_	_	_	_	_	A3
+38	of	of	SCONJ	IN	_	37	NMOD	_	_	_	_	_	_
+39	chaos	chaos	NOUN	NN	_	38	PMOD	_	_	_	_	_	_
+40	.	.	PUNCT	.	_	33	P	_	_	_	_	_	_
+
+1	Some	some	DET	DT	_	4	NMOD	_	_	_	_	_	_
+2	``	``	PUNCT	``	_	4	P	_	_	_	_	_	_
+3	circuit	circuit	NOUN	NN	_	4	NMOD	_	_	_	_	_	_
+4	breakers	breakers	NOUN	NNS	_	12	SBJ	_	_	A1	A1	_	A0
+5	''	''	PUNCT	''	_	4	P	_	_	_	_	_	_
+6	installed	instal	VERB	VBN	_	4	APPO	Y	install.01	_	_	_	_
+7	after	after	SCONJ	IN	_	6	TMP	_	_	AM-TMP	_	_	_
+8	the	the	DET	DT	_	11	NMOD	_	_	_	_	_	_
+9	October	october	PROPN	NNP	_	10	NMOD	_	_	_	_	_	_
+10	1987	1987	NUM	CD	_	11	NMOD	_	_	_	_	_	_
+11	crash	crash	NOUN	NN	_	7	PMOD	_	_	_	_	_	_
+12	failed	fail	VERB	VBD	_	18	OBJ	Y	fail.01	_	_	A1	_
+13	their	their	PRON	PRP$	_	15	NMOD	_	_	_	_	_	_
+14	first	first	ADJ	JJ	_	15	NMOD	_	_	_	_	_	_
+15	test	test	NOUN	NN	_	12	OBJ	_	_	_	A2	_	_
+16	,	,	PUNCT	,	_	18	P	_	_	_	_	_	_
+17	traders	trader	NOUN	NNS	_	18	SBJ	_	_	_	_	A0	_
+18	say	say	VERB	VBP	_	0	ROOT	Y	say.01	_	_	_	_
+19	,	,	PUNCT	,	_	18	P	_	_	_	_	_	_
+20	unable	unable	ADJ	JJ	_	12	ADV	_	_	_	AM-PRD	_	_
+21	to	to	PART	TO	_	20	AMOD	_	_	_	_	_	_
+22	cool	cool	VERB	VB	_	21	IM	Y	cool.01	_	_	_	_
+23	the	the	DET	DT	_	25	NMOD	_	_	_	_	_	_
+24	selling	selling	NOUN	NN	_	25	NMOD	_	_	_	_	_	_
+25	panic	panic	NOUN	NN	_	22	OBJ	_	_	_	_	_	A1
+26	in	in	SCONJ	IN	_	25	LOC	_	_	_	_	_	_
+27	both	both	DET	DT	_	28	NMOD	_	_	_	_	_	_
+28	stocks	stocks	NOUN	NNS	_	26	PMOD	_	_	_	_	_	_
+29	and	and	CCONJ	CC	_	28	COORD	_	_	_	_	_	_
+30	futures	future	NOUN	NNS	_	29	CONJ	_	_	_	_	_	_
+31	.	.	PUNCT	.	_	12	P	_	_	_	_	_	_
+
+1	The	the	DET	DT	_	5	NMOD	_	_	_	_
+2	49	49	NUM	CD	_	5	NMOD	_	_	_	_
+3	stock	stock	NOUN	NN	_	4	NMOD	_	_	_	_
+4	specialist	specialist	NOUN	NN	_	5	NMOD	_	_	_	_
+5	firms	firm	NOUN	NNS	_	29	SBJ	_	_	_	A0
+6	on	on	SCONJ	IN	_	5	LOC	_	_	_	_
+7	the	the	DET	DT	_	10	NMOD	_	_	_	_
+8	Big	big	PROPN	NNP	_	9	NAME	_	_	_	_
+9	Board	board	PROPN	NNP	_	10	NMOD	_	_	_	_
+10	floor	floor	NOUN	NN	_	6	PMOD	_	_	_	_
+11	--	--	PUNCT	:	_	5	P	_	_	_	_
+12	the	the	DET	DT	_	13	NMOD	_	_	_	_
+13	buyers	buyer	NOUN	NNS	_	5	APPO	_	_	A1	_
+14	and	and	CCONJ	CC	_	13	COORD	_	_	_	_
+15	sellers	sellers	NOUN	NNS	_	14	CONJ	_	_	_	_
+16	of	of	SCONJ	IN	_	13	NMOD	_	_	_	_
+17	last	last	ADJ	JJ	_	18	NMOD	_	_	_	_
+18	resort	resort	NOUN	NN	_	16	PMOD	_	_	_	_
+19	who	who	PRON	WP	_	20	SBJ	_	_	R-A1	_
+20	were	be	AUX	VBD	_	13	NMOD	_	_	_	_
+21	criticized	criticize	VERB	VBN	_	20	VC	Y	criticize.01	_	_
+22	after	after	SCONJ	IN	_	21	TMP	_	_	AM-TMP	_
+23	the	the	DET	DT	_	25	NMOD	_	_	_	_
+24	1987	1987	NUM	CD	_	25	NMOD	_	_	_	_
+25	crash	crash	NOUN	NN	_	22	PMOD	_	_	_	_
+26	--	--	PUNCT	:	_	5	P	_	_	_	_
+27	once	once	ADV	RB	_	29	TMP	_	_	_	AM-TMP
+28	again	again	ADV	RB	_	27	AMOD	_	_	_	_
+29	could	could	AUX	MD	_	0	ROOT	_	_	_	AM-MOD
+30	n't	not	ADV	RB	_	29	ADV	_	_	_	AM-NEG
+31	handle	handle	VERB	VB	_	29	VC	Y	handle.01	_	_
+32	the	the	DET	DT	_	34	NMOD	_	_	_	_
+33	selling	selling	NOUN	NN	_	34	NMOD	_	_	_	_
+34	pressure	pressure	NOUN	NN	_	31	OBJ	_	_	_	A1
+35	.	.	PUNCT	.	_	29	P	_	_	_	_
+
+1	Big	big	ADJ	JJ	_	3	NMOD	_	_	_	_	_	_	_
+2	investment	investment	NOUN	NN	_	3	NMOD	_	_	_	_	_	_	_
+3	banks	banks	NOUN	NNS	_	4	SBJ	_	_	A0	A1	A0	A0	_
+4	refused	refuse	VERB	VBD	_	25	OBJ	Y	refuse.01	_	_	_	_	A1
+5	to	to	PART	TO	_	4	OPRD	_	_	A1	_	_	_	_
+6	step	step	VERB	VB	_	5	IM	Y	step.01	_	_	_	_	_
+7	up	up	SCONJ	IN	_	6	DIR	_	_	_	AM-DIR	_	_	_
+8	to	to	PART	TO	_	7	AMOD	_	_	_	A2	_	_	_
+9	the	the	DET	DT	_	10	NMOD	_	_	_	_	_	_	_
+10	plate	plate	NOUN	NN	_	8	PMOD	_	_	_	_	_	_	_
+11	to	to	PART	TO	_	6	PRP	_	_	_	AM-PNC	_	_	_
+12	support	support	VERB	VB	_	11	IM	Y	support.01	_	_	_	_	_
+13	the	the	DET	DT	_	16	NMOD	_	_	_	_	_	_	_
+14	beleaguered	beleaguer	VERB	VBN	_	16	NMOD	_	_	_	_	_	_	_
+15	floor	floor	NOUN	NN	_	16	NMOD	_	_	_	_	_	_	_
+16	traders	trader	NOUN	NNS	_	12	OBJ	_	_	_	_	A1	_	_
+17	by	by	SCONJ	IN	_	12	MNR	_	_	_	_	AM-MNR	_	_
+18	buying	buy	VERB	VBG	_	17	PMOD	Y	buy.01	_	_	_	_	_
+19	big	big	ADJ	JJ	_	20	NMOD	_	_	_	_	_	_	_
+20	blocks	block	NOUN	NNS	_	18	OBJ	_	_	_	_	_	A1	_
+21	of	of	SCONJ	IN	_	20	NMOD	_	_	_	_	_	_	_
+22	stock	stock	NOUN	NN	_	21	PMOD	_	_	_	_	_	_	_
+23	,	,	PUNCT	,	_	25	P	_	_	_	_	_	_	_
+24	traders	trader	NOUN	NNS	_	25	SBJ	_	_	_	_	_	_	A0
+25	say	say	VERB	VBP	_	0	ROOT	Y	say.01	_	_	_	_	_
+26	.	.	PUNCT	.	_	25	P	_	_	_	_	_	_	_

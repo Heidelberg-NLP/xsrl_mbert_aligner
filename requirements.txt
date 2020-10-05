@@ -1,0 +1,4 @@
+tabulate
+transformers==2.2.0
+spacy==2.1.0
+-e git+https://github.com/Tiiiger/bert_score@926c516ac516411c560918dddce7755e6ea9aa70#egg=bert_score
