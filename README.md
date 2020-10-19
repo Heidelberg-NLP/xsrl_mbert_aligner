@@ -33,7 +33,7 @@ Note that the code was tested for English, German, French and Spanish only; howe
 
 ## Installation
 
-1. Create a new virtual environment. For examplem using conda:
+1. Create a new virtual environment. For example using conda:
 
 ```sh
 conda create --name mbert-aligner python=3.6.3
