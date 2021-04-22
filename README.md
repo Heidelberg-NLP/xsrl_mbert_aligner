@@ -1,6 +1,6 @@
 # X-SRL Dataset and mBERT Word Aligner
 
-Code associated with the paper **X-SRL: A Parallel Cross-lingual Semantic Role Labeling Dataset**, to be presented @EMNLP 2020.
+Code associated with the paper **X-SRL: A Parallel Cross-lingual Semantic Role Labeling Dataset**, presented @EMNLP 2020. You can find the paper [here](https://www.aclweb.org/anthology/2020.emnlp-main.321.pdf)
 
 ## Citation
 
@@ -17,7 +17,9 @@ If you use our data, our word alignment tool or the annotation projection tool f
 
 ## Datasets
 
-Unfortunately, the English SRL data is licenced with LDC, therefore we cannot distribute it. You can obtain the English original annotations [here](https://catalog.ldc.upenn.edu/LDC2012T04). We are currently figuring out the licensing for our created dataset in the other languages.
+NEW! Our data has been published @LDC. You can obtain it [here](https://catalog.ldc.upenn.edu/LDC2021T09) 
+
+The original English SRL data is licenced with LDC, therefore we cannot directly distribute it. You can obtain the English original annotations [here](https://catalog.ldc.upenn.edu/LDC2012T04).
 
 We created SRL annotated data (in [CoNLL-U Format](https://universaldependencies.org/format.html)) for German, French and Spanish. All data was automatically translated using [DeepL](https://www.deepl.com/translator). The *train/dev* portions were automatically annotated using our projection tool and the *test* is human-validated both for translation quality and labeling. For the test sets, we also include references that map the translated sentences to their original index in the English test sets, include the assigned translation quality, and the translation as plain text. 
 
